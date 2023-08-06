@@ -34,7 +34,7 @@
 .header__menu, .header__menu-mobile{
     padding: 20px;
     display: flex;
-    flex: 1.2; /* */
+    flex: 1.19; /* */
     align-items: center; /*centrés verticalement dans la case*/
     justify-content: flex-end; /*s'aligne sur la fin*/
     gap: 64px;
