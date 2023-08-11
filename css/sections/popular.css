@@ -97,6 +97,11 @@
     cursor: pointer;
 }
 
+.popular-foods__button:hover{
+    background: #fff;
+    color: #000;
+}
+
 .popular-foods__button img{
     width: 14px;
     height: 14px;
