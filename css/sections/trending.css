@@ -107,6 +107,10 @@
     align-items: center;
 }
 
+.trending__discover:hover{
+    background-color: var(--primary-color);
+}    
+
 .trending__discover p{
     color: #fff;
     text-transform: uppercase;
